@@ -1,0 +1,13 @@
+# Pastas de saída comuns
+build/
+Build/
+out/
+bin/
+
+# Arquivos específicos do CMake que podem aparecer na raiz
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+install_manifest.txt
+Makefile
